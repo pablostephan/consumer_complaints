@@ -44,3 +44,6 @@ This analysis can help stakeholders or regulatory agencies to:
 - Investigate spikes or drops in complaint volumes.
 
 - Align company resources and customer support strategies.
+
+## Link to the file on Kaggle
+https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints/data
